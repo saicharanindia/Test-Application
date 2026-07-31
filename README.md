@@ -2,7 +2,7 @@
 
 A fast, reliable, and scalable test application built with modern technologies.
 
-## ✨ Features.
+## ✨ Features
 - ⚡ High Performance
 - 🔒 Secure Authentication
 - 🌍 Cross-Platform Compatibility
